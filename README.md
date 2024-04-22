@@ -46,5 +46,7 @@ To get started with the project, follow these steps:
 - To import CSV data, go to `http://localhost:8000/import-csv/` and upload a CSV file.
 - To view the visualizations of the imported data, go to `http://localhost:8000/visualize-data/`.
 
-##Watch a Quick Demo
+
+## Watch a Quick Demo
+```
 https://drive.google.com/file/d/1irECF5iQrlkW2iN-ijUZlEarn-XWp30r/view?usp=sharing
